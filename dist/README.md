@@ -1,7 +1,7 @@
-# README-generator [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+# tyjtyjerthujeyt5j [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
   
 ## Application Description
-This app takes user input and creates a professional README file.
+etryjtuhjkretyjet
 
 ## Table of Contents
 * [Description](#application-description)
@@ -13,19 +13,19 @@ This app takes user input and creates a professional README file.
 * [Questions](#questions)
 
 ## Installation
-npm install
+etyjhtyujketyje
 
 ## Usage
-Please use this app!
+tejyetyjetyj
 
 ## License
-This application is covered under the GNU GPL v3 License. Please click the badge for more information.[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)
+This application is covered under the Apache 2.0 License. Please click the badge for more information. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 ## Contributions
-You can contribute by creating a new issue.
+ytrjeytrjetyj
 
 ## Testing
-run test
+yrtejhetyjrty
 
 ## Questions
-Please feel free to reach out with any questions or concerns. I can be reached at victorj500@gmail.com or on GitHub at github.com/vic-smith.
+Please feel free to reach out with any questions or concerns. I can be reached at yrtjetyjetryjety or on GitHub at github.com/thert5yjherytje.

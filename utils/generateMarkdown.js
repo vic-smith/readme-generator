@@ -1,5 +1,3 @@
-
-
 // function to generate markdown for README
 function generateMarkdown(data) { 
   if (data.license === "MIT") {
@@ -8,15 +6,15 @@ function generateMarkdown(data) {
   } else if (data.license === "Apache 2.0 License") {
     badge =
       "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
-    licenseStr = "This application is covered under Mozilla Public License 2.0. Please click the badge for more information. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
+    licenseStr = "This application is covered under the Apache 2.0 License. Please click the badge for more information. [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
   } else if (data.license === "Mozilla Public License 2.0") {
     badge =
       "[![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
-    licenseStr = "This application is covered under the GNU GPL v3 License. Please click the badge for more information. [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
+    licenseStr = "This application is covered under Mozilla Public License 2.0. Please click the badge for more information. [![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)](https://opensource.org/licenses/MPL-2.0)";
   } else if (data.license === "GNU GPL v3") {
     badge =
       "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)";
-      licenseStr = "This application is covered under the Apache 2.0 License. Please click the badge for more information. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)";
+      licenseStr = "This application is covered under the GNU GPL v3 License. Please click the badge for more information. [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)";
   } else {
     badge = "";
     licenseStr ="";

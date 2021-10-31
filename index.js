@@ -2,7 +2,7 @@ const inquirer = require("inquirer");
 const fs = require("fs");
 const generateMarkdown = require("./utils/generateMarkdown");
 
-// TODO: Create an array of questions for user input
+// function to create inquirer prompts
 const createRm = () => {
   return inquirer.prompt([
     {
@@ -132,7 +132,7 @@ const createRm = () => {
   ]);
 };
 
-// TODO: Create a function to write README file
+// function to write README file
 
 const writeFile = (data) => {
   return new Promise((resolve, reject) => {
@@ -148,11 +148,6 @@ const writeFile = (data) => {
     });
   });
 };
-
-//function writeToFile(fileName, data) {}
-
-// TODO: Create a function to initialize app
-//function init() {}
 
 // Function call to initialize app
 createRm()
